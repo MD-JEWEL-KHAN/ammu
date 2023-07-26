@@ -1,3 +1,4 @@
 I Love you
 And you love me
 this is test1 third line
+logo alignment is centered
